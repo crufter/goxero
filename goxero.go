@@ -3,7 +3,7 @@ package goxero
 import (
 	"net/http"
 
-	"github.com/mrjones/oauth"
+	"github.com/crufter/oauth"
 )
 
 const (
